@@ -9,7 +9,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Electrical Engineering at NIT Hamirpur.\
 🌱 &nbsp;I'm on track for learning more about  Blockchain, Systems Design and AI/ML.\
-✍️ &nbsp;In my free time, I play cricket and Writing poetry .\
+✍️ &nbsp;In my free time, I play cricket and Write poetry .\
 💬 &nbsp;Feel free to reach out to me for contributing and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at ayanchordia1@gmail.com! I'll try to respond as soon as I can.\
 <!---📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
